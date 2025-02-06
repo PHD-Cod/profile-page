@@ -52,5 +52,13 @@
   "languages": [
     "Português BR",
     "Inglês"
-  ]
+  ],
+
+  "portifolio": [
+
+      {
+        "name":"Pokedex",
+        "logo": "https://github.com/PHD-Cod/projeto-JS-pokedex"
+      }
+    ]
 }
