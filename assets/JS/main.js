@@ -39,6 +39,8 @@ function updateLanguages(profileData) {
     const profileData = await fetchProfileData()
     updateProfileInfo(profileData)
     updatePersonal(profileData)
+    updateProfessional(profileData)
+    updateLanguages(profileData)
     console.log(profileData)
     
 })()
