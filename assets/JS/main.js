@@ -36,7 +36,14 @@ function updateLanguages(profileData) {
 
 function updatePortifolio(profileData) {
     const portifolio = document.getElementById('profile.portifolio')
-    portifolio.innerHTML = profileData.portifolio.map(portifolio => `<li>${portifolio}</li>`).join('')
+    portifolio.innerHTML = profileData.portifolio.map(portifolio => 
+        `
+        <li>
+            <h3 class="title">${portifolio.name}</h3>
+            <a href=${portifolio.url} target="_blank">${portifolio.url}</a>
+        </li>
+        `
+    ).join('')
 }
 
 (async () => {

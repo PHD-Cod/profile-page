@@ -9,35 +9,35 @@
     "professional": [
       {
         "name":"js",
-        "logo": "https://raw.githubusercontent.com/PHD-Cod/profile-page/refs/heads/main/assets/img/skills/JS.svg"
+        "logo":"https://raw.githubusercontent.com/PHD-Cod/profile-page/refs/heads/main/assets/img/skills/JS.svg"
       },
       {
         "name":"csharp",
-        "logo": "https://raw.githubusercontent.com/PHD-Cod/profile-page/refs/heads/main/assets/img/skills/csharp.svg"
+        "logo":"https://raw.githubusercontent.com/PHD-Cod/profile-page/refs/heads/main/assets/img/skills/csharp.svg"
       },
       {
         "name":"node",
-        "logo": "https://raw.githubusercontent.com/PHD-Cod/profile-page/refs/heads/main/assets/img/skills/node.svg"
+        "logo":"https://raw.githubusercontent.com/PHD-Cod/profile-page/refs/heads/main/assets/img/skills/node.svg"
       },
       {
         "name":"github",
-        "logo": "https://raw.githubusercontent.com/PHD-Cod/profile-page/refs/heads/main/assets/img/skills/gitHub.svg"
+        "logo":"https://raw.githubusercontent.com/PHD-Cod/profile-page/refs/heads/main/assets/img/skills/gitHub.svg"
       },
       {
         "name":"html",
-        "logo": "https://raw.githubusercontent.com/PHD-Cod/profile-page/refs/heads/main/assets/img/skills/html.svg"
+        "logo":"https://raw.githubusercontent.com/PHD-Cod/profile-page/refs/heads/main/assets/img/skills/html.svg"
       },
       {
         "name":"css",
-        "logo": "https://raw.githubusercontent.com/PHD-Cod/profile-page/refs/heads/main/assets/img/skills/css.svg"
+        "logo":"https://raw.githubusercontent.com/PHD-Cod/profile-page/refs/heads/main/assets/img/skills/css.svg"
       },
       {
         "name":"win",
-        "logo": "https://raw.githubusercontent.com/PHD-Cod/profile-page/refs/heads/main/assets/img/skills/win.svg"
+        "logo":"https://raw.githubusercontent.com/PHD-Cod/profile-page/refs/heads/main/assets/img/skills/win.svg"
       },
       {
         "name":"react",
-        "logo": "https://raw.githubusercontent.com/PHD-Cod/profile-page/refs/heads/main/assets/img/skills/react.svg"
+        "logo":"https://raw.githubusercontent.com/PHD-Cod/profile-page/refs/heads/main/assets/img/skills/react.svg"
       }
     ],
 
