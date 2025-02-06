@@ -55,18 +55,28 @@
   ],
 
   "portifolio": [
+    {
+      "name":"PokeAPI",
+      "url": "https://github.com/PHD-Cod/projeto-JS-pokedex"
+    },
+    {
+      "name":"Imersão Alura",
+      "url": "https://github.com/PHD-Cod/imersaoAlura"
+    },
+    {
+      "name":"Desafio lógica de programação",
+      "url": "https://github.com/PHD-Cod/desafio-Logica-de-programacao"
+    }
+  ],
 
-      {
-        "name":"PokeAPI",
-        "url": "https://github.com/PHD-Cod/projeto-JS-pokedex"
-      },
-      {
-        "name":"Imersão Alura",
-        "url": "https://github.com/PHD-Cod/imersaoAlura"
-      },
-      {
-        "name":"Desafio lógica de programação",
-        "url": "https://github.com/PHD-Cod/desafio-Logica-de-programacao"
-      }
-    ]
+  "experiencia": [
+    {
+      "name":"Enfermeiro - Rede d'or",
+      "periodo":"2017-2019"
+    },
+    {
+      "name":"Enfermeiro - Albert Einstein",
+      "periodo":"2019-2023"
+    }
+  ]
 }
