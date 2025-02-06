@@ -46,6 +46,7 @@ function updatePortifolio(profileData) {
     updatePersonal(profileData)
     updateProfessional(profileData)
     updateLanguages(profileData)
+    updatePortifolio(profileData)
     console.log(profileData)
     
 })()
