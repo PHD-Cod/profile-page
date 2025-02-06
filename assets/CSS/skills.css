@@ -3,7 +3,7 @@
     flex-direction: column;
 }
 
-.skills .tools ul {
+.skills .professional ul {
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
@@ -14,7 +14,7 @@
     list-style: none;
 }
 
-.skills .tools ul li img {
+.skills .professional ul li img {
     max-width: 65px;
     margin: 0 1rem;
 }

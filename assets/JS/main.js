@@ -1,5 +1,5 @@
 
-function updateProfileInfo(profileData){
+function updateProfileInfo(profileData) {
     const photo = document.getElementById('profile.photo')
     photo.src = profileData.photo
     photo.alt = profileData.name
@@ -19,10 +19,26 @@ function updateProfileInfo(profileData){
 
 }
 
+function updatePersonal(profileData) {
+    const personal = document.getElementById('profile.skills.personal')
+    personal.innerHTML = profileData.skills.personal.map(skill => `<li>${skill}</li>`).join('')
+}
+
+function updateProfessional(profileData) {
+    const professional = document.getElementById('profile.skills.professional')
+    professional.innerHTML = profileData.skills.professional.map(skill => `<li><img src="${skill.logo}" alt="${skill.name}" title="${skill.name}"></li>`).join('')
+}
+
+function updateLanguages(profileData) {
+    const languages = document.getElementById('profile.languages')
+    languages.innerHTML = profileData.languages.map(language => `<li>${language}</li>`).join('')
+}
+
 (async () => {
 
     const profileData = await fetchProfileData()
     updateProfileInfo(profileData)
+    updatePersonal(profileData)
     console.log(profileData)
     
 })()
