@@ -66,6 +66,7 @@ function updateExperiencia(profileData) {
     updateProfessional(profileData)
     updateLanguages(profileData)
     updatePortifolio(profileData)
+    updateExperiencia(profileData)
     console.log(profileData)
     
 })()
