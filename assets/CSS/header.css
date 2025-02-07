@@ -55,16 +55,16 @@
 }
 
 .information .job::before {
-    background-image: url('../img/icons/job.svg');
+    background-image: url('assets/img/icons/job.svg');
 }
 
 .information .location::before {
-    background-image: url('../img/icons/location.svg');
+    background-image: url('assets/img/icons/location.svg');
     
 }
 
 .information .email::before {
-    background-image: url('../img/icons/mail.svg');
+    background-image: url('assets/img/icons/mail.svg');
 }
 
 @media only screen and (min-width: 768px) {
