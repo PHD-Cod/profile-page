@@ -22,6 +22,6 @@
     height: 1rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('assets/img/icons/data.svg');
+    background-image: url('../img/icons/data.svg');
     margin-right: .5rem;
 }
